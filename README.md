@@ -1,1 +1,5 @@
-# NABAgpl_eng
+# Music Labyrinth
+
+## Team
+- Niya Ivanova
+- Kenan Atun
